@@ -4,6 +4,7 @@
 }
 
 h1{
+	font-size:175%;
 	text-align: Center;
 }
 div{
@@ -35,7 +36,7 @@ p{
 }
 
 h2{
-	
+	font-size:125%;
 	float:right;
 	text-align:Center;
 	margin-top:5px;
